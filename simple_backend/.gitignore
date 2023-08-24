@@ -3,6 +3,3 @@ node_modules/
 .env.local
 build/
 dist/
-*.exe
-*.out
-*.min.js
